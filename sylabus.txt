@@ -1,0 +1,21 @@
+
+git
+
+Sorting
+apa aja nih?
+bubble sort
+quick sort
+
+
+Searching
+apa aja nih?
+
+function
+pointer
+struct, typedef
+
+linked list
+
+binary tree
+
+
